@@ -1,3 +1,4 @@
 {
-    "mongoURI" : "mongodb+srv://amish:amish@cluster0.pibba.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority"
+    "mongoURI" : "mongodb+srv://amish:amish@cluster0.pibba.gcp.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret" : "mysecrettoken"
 }
